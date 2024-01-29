@@ -1,0 +1,7 @@
+process_generator.out
+clk.out
+scheduler.out
+process.out
+test_generator.out
+processes.txt
+.vscode
